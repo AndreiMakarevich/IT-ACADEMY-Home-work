@@ -1,0 +1,13 @@
+div{
+font-size: 2vw;
+padding: 40px;
+background: 
+url(./left_top.jpg) no-repeat,
+url(./left_bottom.jpg) no-repeat bottom left,
+url(./right_left_center.jpg) repeat-y,
+url(./right_bottom.jpg) no-repeat bottom right,
+url(./right_top.jpg) no-repeat right top,
+url(./right_left_center.jpg)right repeat-y,
+url(./center_top_bottom.jpg) top repeat-x,
+url(./center_top_bottom.jpg) bottom repeat-x;
+} 
